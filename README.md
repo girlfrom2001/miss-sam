@@ -1,6 +1,6 @@
 - Hi, I’m Sam (she/her).
 - I am an undergraduate student with a major in Computer Science and a minor in Computer Information Systems.
-- You'll find my work is in Python or Java.
+- You'll find my projects are in Python or Java.
 - I'm interested in having coffee chats and making connections. 🍵
 
 <!---
